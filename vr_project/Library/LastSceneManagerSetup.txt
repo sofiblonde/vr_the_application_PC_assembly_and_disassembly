@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/Game_scenes.unity
+- path: Assets/SteamVR/Extras/SteamVR_ShowTrackingReferences.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
