@@ -50,6 +50,16 @@
       "type": "boolean"
     },
     {
+      "name": "/actions/default/in/Touchpad",
+      "type": "vector2",
+      "requirement": "mandatory"
+    },
+    {
+      "name": "/actions/default/in/TouchClick",
+      "type": "boolean",
+      "requirement": "mandatory"
+    },
+    {
       "name": "/actions/default/out/Haptic",
       "type": "vibration"
     },
